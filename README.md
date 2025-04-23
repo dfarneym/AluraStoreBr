@@ -34,7 +34,7 @@ Baixe ou clone o projeto no Github caso for usar em alguma IDE.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/dfarneym/AluraStoreBr.git](https://github.com/dfarneym/AluraStoreBr.git)
+    git clone [https://github.com/dfarneym/AluraStore_Challenge](https://github.com/dfarneym/AluraStore_Challenge)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
