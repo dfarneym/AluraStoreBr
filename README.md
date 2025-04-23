@@ -65,33 +65,33 @@ Para executar o notebook você precisará ter:
 
 * **Faturamento Mensal**: Ao observar o faturamento total, percebi que a Loja 1 é a que mais fatura, com um valor de R\$1.534.509,12. Em contraste, a Loja 4 é a que menos fatura, com R\$1.384.497,58. Isso nos mostra que a Loja 1 gera mais receita em comparação com as outras.
 
-![Gráfico de faturamento](\graphics\faturamento.png)
+![Gráfico de faturamento](graphics/faturamento.png)
 
 * **Participação de Vendas por Categoria**: Analisando as categorias de produtos, notei que os "Eletrônicos" são os itens mais vendidos em todas as lojas. Por outro lado, categorias como "Livros", "Utilidades Domésticas" e "Brinquedos" vendem menos. Essa informação é útil para entender o interesse dos clientes em cada tipo de produto por loja.
 
-![Gráfico Participação de Vendas por Categoria](\graphics\vendas_por_categoria.png)
+![Gráfico Participação de Vendas por Categoria](graphics/vendas_por_categoria.png)
 
 * **Média de Avaliação das Lojas**: Ao analisar a média de avaliação dos clientes, a Loja 3 se destaca com a melhor nota (4.04), indicando que os clientes estão mais satisfeitos com essa loja. A Loja 1 tem a pior avaliação (3.97), sugerindo que pode haver pontos a serem melhorados na experiência do cliente desta unidade.
 
-![Gráfico da Média de Avaliação das Lojas](graphics\media_de_avaliacao.png)
+![Gráfico da Média de Avaliação das Lojas](graphics/media_de_avaliacao.png)
 
 * **Produtos Mais e Menos Vendidos**: Foi identificado que o produto "Livro Iniciando em Programação" é o campeão de vendas na Loja 2, com 223 unidades vendidas. Já o produto menos vendido é o "Celular ABXY" na Loja 1, com apenas 78 unidades vendidas. Essa análise ajuda a entender a popularidade de produtos específicos em cada loja.
 
-![Gráfico dos Produtos Mais e Menos Vendidos](graphics\pd_mais_menos_vendidos.png)
+![Gráfico dos Produtos Mais e Menos Vendidos](graphics/pd_mais_menos_vendidos.png)
 
 * **Frete Médio por Loja**: Ao analisar o custo médio de frete, a Loja 1 apresenta o maior valor (R$34.69), o que pode impactar a competitividade dos preços dos produtos. A Loja 4 tem o menor custo médio de frete (R\$31.27), o que pode ser um ponto positivo para atrair clientes sensíveis ao preço da entrega.
 
-![Gráfico do Frete Médio por Loja](graphics\frete_medio_loja.png)
+![Gráfico do Frete Médio por Loja](graphics/frete_medio_loja.png)
 
 * **Análise de Desempenho Geográfico**: Através dos gráficos de dispersão, podemos visualizar onde cada loja realiza mais vendas. Áreas com muitos pontos ou cores mais intensas no mapa de calor indicam uma alta concentração de vendas. Essa análise ajuda a entender a área de influência de cada loja e se há sobreposição de atuação entre elas.
 
-![Análise de Desempenho Geográfico loja1](graphics\dispersao_loja1.png)
+![Análise de Desempenho Geográfico loja1](graphics/dispersao_loja1.png)
 
-![Análise de Desempenho Geográfico loja2](graphics\dispersao_loja2.png)
+![Análise de Desempenho Geográfico loja2](graphics/dispersao_loja2.png)
 
-![Análise de Desempenho Geográfico loja3](graphics\dispersao_loja3.png)
+![Análise de Desempenho Geográfico loja3](graphics/dispersao_loja3.png)
 
-![Análise de Desempenho Geográfico loja4](graphics\dispersao_loja4.png)
+![Análise de Desempenho Geográfico loja4](graphics/dispersao_loja4.png)
 
 * 🌞**Mapa de calor**: No mapa de calor podemos visualisar a intensidade das vendas de cada loja em diferentes áreas geográficas como:
     - Áreas Quentes: Regiões com cores mais intensas (geralmente vermelho ou laranja) indicam uma alta concentração de vendas.
@@ -99,13 +99,13 @@ Para executar o notebook você precisará ter:
     - Comparação entre Lojas: Ao visualizar os mapas de calor de diferentes lojas, você pode identificar se algumas lojas têm um desempenho melhor em certas áreas geográficas.
 
   - Mapa de calor Loja 1
-![Mapa de calor Loja 1](graphics\mapa_calor_loja1.png)
+![Mapa de calor Loja 1](graphics/mapa_calor_loja1.png)
   - Mapa de calor Loja 2
-![Mapa de calor Loja 2](graphics\mapa_calor_loja2.png)
+![Mapa de calor Loja 2](graphics/mapa_calor_loja2.png)
   - Mapa de calor Loja 3
-![Mapa de calor Loja ](graphics\mapa_calor_loja3.png)
+![Mapa de calor Loja ](graphics/mapa_calor_loja3.png)
   - Mapa de calor Loja 4
-![Mapa de calor Loja ](graphics\mapa_calor_loja4.png)
+![Mapa de calor Loja ](graphics/mapa_calor_loja4.png)
 
 ### 🤝 Indicação de Loja para venda:
 Considerando os dados apresentados, a Loja 4 se destaca como uma potencial candidata para venda. Embora seu custo de frete seja o menor, ela apresenta o menor faturamento total em comparação com as outras lojas. Além disso, sua avaliação não é a pior, mas também não é a melhor, ficando atrás da Loja 3.
