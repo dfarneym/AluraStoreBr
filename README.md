@@ -1,5 +1,8 @@
 ## 🏢 Alura Store: Análise de Desempenho das Lojas
 
+![Insignia Calleng Alura](insignia/insignia.png)
+
+
 Este repositório apresenta uma análise exploratória do desempenho de quatro lojas da Alura Store, com o objetivo de identificar oportunidades para venda de uma unidade e investimento em um novo negócio.
 
 ### 🎯Objetivo principal
